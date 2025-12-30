@@ -18,6 +18,8 @@ However HDDs work as well, but the performance gain is not so huge.
     <img src="https://repology.org/badge/vertical-allrepos/gdu.svg" alt="Packaging status" align="right">
 </a>
 
+**Windows**: Download from [releases](https://github.com/ZOFUS/gdu-win/releases) or build from source.
+
 ## Installation
 
 Head for the [releases page](https://github.com/dundee/gdu/releases) and download the binary for your system.
