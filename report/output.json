@@ -1,0 +1,6 @@
+[1,2,{"progname":"gdu","progver":"development","timestamp":1767091303},
+[{"name":"test_dir","mtime":1767091303},
+[{"name":"nested","mtime":1767091303},
+{"name":"file2","asize":2,"mtime":1767091303},
+[{"name":"subnested","mtime":1767091303},
+{"name":"file","asize":5,"mtime":1767091303}]]]]

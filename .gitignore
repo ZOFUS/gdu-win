@@ -1,0 +1,10 @@
+/.vscode
+/.idea
+/coverage.txt
+/dist
+/test_dir
+/tui/test_dir
+/vendor
+gdu.exe
+gdu.exe~
+gdu.log
